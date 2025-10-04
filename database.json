@@ -1,0 +1,10 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Sunita Sharma",
+      "phone": "9876543210",
+      "status": "Registered"
+    }
+  ]
+}
